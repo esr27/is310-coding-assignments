@@ -1,1 +1,0 @@
-If you reach an empty folder, you have taken a wrong turn at some point. Good luck.

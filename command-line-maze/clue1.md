@@ -1,1 +1,0 @@
-To uncover the path, seek what is absent. 
