@@ -1,7 +1,7 @@
 For this project, I chose to inspect the Project Gutenberg website. I have used this website for finding free, public domain books since I was 12 years old. 
 
 Immediately, it is very clear that the webpage uses html, as shown by the recognizable syntax and the <!DOCTYPE html> at the top of the page. 
-![HTML image](images/HTML%20image.png.png)
+![HTML image](images/HTML%20image.png)
 
 
 Furthermore, it also uses css, as shown by many /css tags within the elements.
