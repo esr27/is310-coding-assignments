@@ -1,0 +1,133 @@
+Version,Name,Type
+Standard,Axolotl,Passive
+Standard,Bat,Passive
+Standard,Camel,Passive
+Standard,Cat,Passive
+Standard,Chicken,Passive
+Standard,Cod,Passive
+Standard,Cow,Passive
+Standard,Donkey,Passive
+Standard,Frog,Passive
+Standard,Allay,Passive
+Standard,Armadillo,Passive
+Standard,Glow Squid,Passive
+Standard,Horse,Passive
+Standard,Mooshroom,Passive
+Standard,Mule,Passive
+Standard,Ocelot,Passive
+Standard,Parrot,Passive
+Standard,Pig,Passive
+Standard,Pufferfish,Passive
+Standard,Rabbit,Passive
+Standard,Salmon,Passive
+Standard,Sheep,Passive
+Standard,Skeleton Horse,Passive
+Standard,Sniffer,Passive
+Standard,Snow Golem,Passive
+Standard,Squid,Passive
+Standard,Strider,Passive
+Standard,Tadpole,Passive
+Standard,Tropical Fish,Passive
+Standard,Turtle,Passive
+Standard,Villager,Passive
+Standard,Wandering Trader,Passive
+Standard,Bee,Neutral
+Standard,Cave Spider,Neutral
+Standard,Dolphin,Neutral
+Standard,Drowned,Neutral
+Standard,Enderman,Neutral
+Standard,Fox,Neutral
+Standard,Goat,Neutral
+Standard,Iron Golem,Neutral
+Standard,Llama,Neutral
+Standard,Panda,Neutral
+Standard,Piglin,Neutral
+Standard,Polar Bear,Neutral
+Standard,Spider,Neutral
+Standard,Trader Llama,Neutral
+Standard,Wolf,Neutral
+Standard,Zombified Piglin,Neutral
+Standard,Blaze,Hostile
+Standard,Bogged,Hostile
+Standard,Breeze,Hostile
+Standard,Creeper,Hostile
+Standard,Elder Guardian,Hostile
+Standard,Endermite,Hostile
+Standard,Ender Dragon,Hostile
+Standard,Evoker,Hostile
+Standard,Ghast,Hostile
+Standard,Guardian,Hostile
+Standard,Hoglin,Hostile
+Standard,Husk,Hostile
+Standard,Magma Cube,Hostile
+Standard,Phantom,Hostile
+Standard,Piglin Brute,Hostile
+Standard,Pillager,Hostile
+Standard,Ravager,Hostile
+Standard,Shulker,Hostile
+Standard,Silverfish,Hostile
+Standard,Skeleton,Hostile
+Standard,Slime,Hostile
+Standard,Stray,Hostile
+Standard,Vex,Hostile
+Standard,Vindicator,Hostile
+Standard,Warden,Hostile
+Standard,Witch,Hostile
+Standard,Wither,Hostile
+Standard,Wither Skeleton,Hostile
+Standard,Zoglin,Hostile
+Standard,Zombie,Hostile
+Standard,Zombie Villager,Hostile
+Standard,Creaking,Upcoming
+Standard,Ender Dragon,Boss
+Standard,Wither,Boss
+Standard,Giant,Unused
+Standard,Zombie Horse,Unused
+Standard,The Killer Bunny,Unused
+Standard,Agent,Unused
+Standard,NPC,Unused
+Standard,Illusioner,Unused
+Standard,Elder Guardian Ghost,Unused
+Standard,Java Edition,Unused
+Standard,Bedrock Edition,Unused
+Standard,Minecraft Education,Unused
+Standard,Mob (entity),Removed
+Standard,Beast Boy,Removed
+Standard,Black Steve,Removed
+Standard,Rana,Removed
+Standard,Steve,Removed
+Standard,Monster (entity),Removed
+Standard,Steve (mob),Removed
+Standard,Diamond Chicken,Hostile
+Standard,Java Edition 2.0,Hostile
+Standard,Love Golem,Hostile
+Standard,Mars,Hostile
+Standard,Moon Cow,Hostile
+Standard,Nerd Creeper,Hostile
+Standard,Pink Wither,Hostile
+Standard,Pony,Hostile
+Standard,Ray Tracing (mob),Hostile
+Standard,Redstone Bug,Hostile
+Standard,Smiling Creeper,Hostile
+Standard,Pigman,Unimplemented
+Standard,Barnacle,Unimplemented
+Standard,The Great Hunger,Unimplemented
+Standard,The Hovering Inferno,Unimplemented
+Standard,Chinese Alligator,Unimplemented
+Standard,Golden Monkey,Unimplemented
+Standard,White-Lipped Deer,Unimplemented
+Standard,Baiji Dolphin,Unimplemented
+Standard,Red Dragon,Unimplemented
+Standard,Alpaca,Unimplemented
+Standard,Snub-Nosed Monkey,Unimplemented
+Standard,Baiji,Unimplemented
+Standard,Moobloom,Unimplemented
+Standard,Iceologer,Unimplemented
+Standard,Glare,Unimplemented
+Standard,Copper Golem,Unimplemented
+Standard,Java Edition mentioned features,Unimplemented
+Standard,Rascal,Unimplemented
+Standard,Tuff Golem,Unimplemented
+Standard,Crab,Unimplemented
+Standard,Penguin,Unimplemented
+Standard,Firefly,Unimplemented
