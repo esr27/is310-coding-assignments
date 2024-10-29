@@ -57,4 +57,4 @@ for city in na_capitals:
     print("\n")
 
 df = pd.DataFrame(data)
-df.to_csv('na_culture_data.csv', index=False)
+df.to_csv('wikipedia_api_na_culture_data.csv', index=False)
